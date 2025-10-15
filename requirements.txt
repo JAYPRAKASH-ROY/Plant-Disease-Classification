@@ -1,0 +1,10 @@
+
+# Core runtime
+streamlit>=1.34.0
+numpy
+pillow
+# Use 'tensorflow' on CPU or 'tensorflow-cpu' on some platforms. Streamlit Cloud supports tensorflow.
+tensorflow>=2.13.0
+
+# For Grad-CAM overlay
+opencv-python-headless
